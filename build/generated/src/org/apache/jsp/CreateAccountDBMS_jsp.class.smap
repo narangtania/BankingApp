@@ -1,0 +1,19 @@
+SMAP
+CreateAccountDBMS_jsp.java
+JSP
+*S JSP
+*F
++ 0 DBCON.jsp
+DBCON.jsp
++ 1 CreateAccountDBMS.jsp
+CreateAccountDBMS.jsp
+*L
+1,5:51
+5:11
+5,2:56
+7,14:59
+20,4:73
+1#1,5:76
+6,54:82
+59,4:136
+*E
